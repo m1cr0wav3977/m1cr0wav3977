@@ -16,7 +16,6 @@ I am currently working on supply chain security - how do businesses secure audit
 ![](https://github-profile-trophy.vercel.app/?username=m1cr0wav3977&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=m1cr0wav3977&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/jimdicesare) 
