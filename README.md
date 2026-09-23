@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on supply chain security - how do businesses secure audit and trust packages?<br><br>I am currently learning cloud hacking.<br><br>Fun fact: the chicken came before the egg.
+I am currently working on supply chain security - how do businesses securely audit and trust packages?<br><br>I am currently learning cloud hacking.<br><br>Fun fact: the chicken came before the egg.
 
 
 ## 🌐 Socials:
